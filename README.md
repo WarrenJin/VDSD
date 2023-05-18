@@ -73,7 +73,7 @@ After that use save_all_results ipy to generate all visualisation and statistica
 
 
 ## Citation
-If you find the code helpful in your research or work, please cite the following papers.
+If you find the code helpful in your research or work, please cite the following paper.
 ```
 @article{Jin.etal.VDSD,
 title = {Downscaling Long Lead Time Daily Rainfall Ensemble Forecasts through Deep Learning},
