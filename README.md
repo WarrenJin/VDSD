@@ -76,13 +76,13 @@ After that use save_all_results ipy to generate all visualisation and statistica
 If you find the code helpful in your research or work, please cite the following paper.
 ```
 @article{Jin.etal.VDSD,
-title = {Downscaling Long Lead Time Daily Rainfall Ensemble Forecasts through Deep Learning},
-author ={Huidong Jin and Weifan Jiang and Minzhe Chen and Ming Li and K. Shuvo Bakar and Quanxi Shao},
-journal={Stochastic Environmental Research and Risk Assessment},
-note={Accepted in April 2023},
-pages={1--19},
-year={2023},
-publisher={Springer},
-doi={https://doi.org/10.1007/s00477-023-02444-x}
+  title={Downscaling long lead time daily rainfall ensemble forecasts through deep learning},
+  author={Jin, Huidong and Jiang, Weifan and Chen, Minzhe and Li, Ming and Bakar, K Shuvo and Shao, Quanxi},
+  journal={Stochastic Environmental Research and Risk Assessment},
+  volume={37},
+  number={8},
+  pages={3185--3203},
+  year={2023},
+  publisher={Springer}
 }
 ```
